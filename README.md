@@ -43,11 +43,16 @@ Repository ini berisi penyelesaian dari 4 tugas latihan mandiri pemrograman Java
 3. Buat proyek Java baru atau buka file `.java` masing-masing latihan secara langsung.
 4. Jalankan program dengan menekan **`Shift + F6`** (Run File) pada file yang ingin dieksekusi.
 
-## output
+## Hasil Praktik Java - Apache NetBeans
 
-```markdown
+### 1. Latihan Perulangan FOR
 ![Output Latihan 1](screenshots/LatihanSatu.png)
+
+### 2. Latihan Perulangan WHILE
 ![Output Latihan 2](screenshots/LatihanDua.png)
+
+### 3. Latihan Method Kembalian
 ![Output Latihan 3](screenshots/LatihanTiga.png)
+
+### 4. Latihan Method Daftar Barang
 ![Output Latihan 4](screenshots/LatihanEmpat.png)
-```
